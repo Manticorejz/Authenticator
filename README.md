@@ -1,0 +1,2 @@
+# Authenticator
+Authenticator for CSGOPolygon
